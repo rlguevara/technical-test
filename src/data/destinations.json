@@ -1,0 +1,64 @@
+{
+  "destinations": [
+    {
+      "id": 1,
+      "title": "Tokyo, Japan",
+      "description": "A vibrant metropolis blending ultramodern technology with traditional culture. Named the #1 Trending Destination for 2024, Tokyo offers incredible food, stunning temples, and cutting-edge entertainment.",
+      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "id": 2,
+      "title": "Dubai, UAE",
+      "description": "Named the #1 Top Destination in the World for the third year running. Experience the world's tallest building, luxury shopping, desert adventures, and futuristic architecture.",
+      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "id": 3,
+      "title": "Hanoi, Vietnam",
+      "description": "The #1 Food Destination in the world for 2024. Explore ancient temples, vibrant street food scenes, and the charming Old Quarter with its blend of French colonial and Asian architecture.",
+      "image": "https://images.unsplash.com/photo-1555921015-5532091f6026?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "id": 4,
+      "title": "Cuba",
+      "description": "The #1 Culture Destination for 2024. Experience the rich history, vintage cars, vibrant music scene, and colonial architecture. Known for its unique blend of cultures and preserved historical sites.",
+      "image": "https://images.unsplash.com/photo-1500759285222-a95626b934cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "id": 5,
+      "title": "Paris, France",
+      "description": "The City of Light hosts the 2024 Olympics and offers iconic landmarks, world-class museums, and romantic atmosphere. Experience the Eiffel Tower, Louvre Museum, and charming café culture.",
+      "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "id": 6,
+      "title": "Bali, Indonesia",
+      "description": "A paradise island offering pristine beaches, ancient temples, and rich cultural heritage. Experience yoga retreats, traditional ceremonies, and stunning rice terraces.",
+      "image": "https://images.unsplash.com/photo-1604999333679-b86d54738315?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "id": 7,
+      "title": "New York City, USA",
+      "description": "The city that never sleeps offers iconic landmarks, world-class shopping, and diverse cultural experiences. Visit Times Square, Central Park, and the Statue of Liberty.",
+      "image": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "id": 8,
+      "title": "Santorini, Greece",
+      "description": "Famous for its white-washed buildings, blue-domed churches, and stunning sunsets. Experience the unique architecture, local wines, and breathtaking views of the Aegean Sea.",
+      "image": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "id": 9,
+      "title": "Sydney, Australia",
+      "description": "A vibrant coastal city featuring the iconic Opera House, Harbour Bridge, and beautiful beaches. Experience the perfect blend of urban life and natural beauty.",
+      "image": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "id": 10,
+      "title": "Marrakech, Morocco",
+      "description": "A sensory feast with its vibrant souks, historic medina, and stunning gardens. Experience traditional Moroccan culture, architecture, and cuisine in this magical city.",
+      "image": "https://images.unsplash.com/photo-1553603227-2358aabe821e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    }
+  ]
+} 
