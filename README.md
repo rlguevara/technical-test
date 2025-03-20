@@ -19,7 +19,7 @@ Traveland is a modern and responsive travel package booking website built with R
 1. Clone the repository:
 ```bash
 git clone <your-repo-url>
-cd Movies-Project
+cd technical-test
 ```
 
 2. Install dependencies:
